@@ -1,7 +1,3 @@
-Qi Zhang
-IBM Data Science Professional Certificate
-August 15, 2020
-
 # Analyzing Coffee Shop Locations in Vancouver, BC
 
 Qi Zhang
